@@ -1,0 +1,15 @@
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\bin\Debug\ImageCloudTimer.exe.config
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\bin\Debug\ImageCloudTimer.exe
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\bin\Debug\ImageCloudTimer.pdb
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer.csprojResolveAssemblyReference.cache
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\App.g.cs
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer_MarkupCompile.cache
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer_MarkupCompile.lref
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\MainWindow.baml
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer.g.resources
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer.Properties.Resources.resources
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer.csproj.GenerateResource.cache
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer.csproj.CoreCompileInputs.cache
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer.exe
+C:\Users\Мухамедьян\source\repos\ImageCloudTimer\ImageCloudTimer\obj\Debug\ImageCloudTimer.pdb
